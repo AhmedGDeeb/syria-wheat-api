@@ -5,3 +5,4 @@ joblib
 jinja2
 numpy
 pandas
+python-multipart
